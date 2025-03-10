@@ -2,7 +2,7 @@
 
 - Docker
 - Docker Compose
-- Java 17 (или выше)
+- Java 17 или выше
 
 ## Запуск проекта
 
