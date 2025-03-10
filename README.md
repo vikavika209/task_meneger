@@ -12,7 +12,7 @@
 
 Сначала клонируйте репозиторий на свой локальный компьютер:
 
-`git clone https://your-repository-url.git
+`git clone https://github.com/vikavika209/task_meneger_test_project.git
 cd your-repository-directory`
 
 ### 2. Соберите и запустите контейнеры
